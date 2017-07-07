@@ -1,0 +1,9 @@
+D:\A.Ali\vm\vm\bin\Debug\vm.exe.config
+D:\A.Ali\vm\vm\obj\Debug\vm.Form1.resources
+D:\A.Ali\vm\vm\obj\Debug\vm.Properties.Resources.resources
+D:\A.Ali\vm\vm\obj\Debug\vm.csproj.GenerateResource.Cache
+D:\A.Ali\vm\vm\obj\Debug\vm.csprojResolveAssemblyReference.cache
+D:\A.Ali\vm\vm\bin\Debug\vm.exe
+D:\A.Ali\vm\vm\bin\Debug\vm.pdb
+D:\A.Ali\vm\vm\obj\Debug\vm.exe
+D:\A.Ali\vm\vm\obj\Debug\vm.pdb
